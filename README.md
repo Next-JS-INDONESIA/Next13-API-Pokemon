@@ -20,7 +20,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Learn More
 
-Kalo kalian mo
+Kalo kalian mo hebat
 
 To learn more about Next.js, take a look at the following resources:
 
